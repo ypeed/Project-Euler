@@ -1,6 +1,6 @@
 let sum = 0;
-let n = 1;
-let m = 2;
+let n = 0;
+let m = 1;
 let temp;
 
 while(sum < 4000000){
